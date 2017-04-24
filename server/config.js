@@ -1,7 +1,7 @@
 var PORT = proccess.env.PORT || 3000;
 module.exports = {
   "restApiRoot": "/api",
-  "host": "127.0.0.1",
+  "host": "0.0.0.0",
   "port": PORT,
   "remoting": {
     "context": false,
