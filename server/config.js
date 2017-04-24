@@ -1,7 +1,7 @@
 var PORT = proccess.env.PORT || 3000;
 module.exports = {
   "restApiRoot": "/api",
-  "host": "0.0.0.0",
+  "host": "Public DNS: ec2-54-186-136-39.us-west-2.compute.amazonaws.com",
   "port": PORT,
   "remoting": {
     "context": false,
