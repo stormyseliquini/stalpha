@@ -1,8 +1,8 @@
 {
   "db": {
-    "host": "ec2-54-210-121-153.compute-1.amazonaws.com",
+    "host": "",
     "port": 27017,
-    "url": "",
+    "url": "ec2-54-210-121-153.compute-1.amazonaws.com",
     "database": "",
     "password": "",
     "name": "db",
