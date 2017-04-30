@@ -12,6 +12,9 @@
     },
     "media": {
       "type": "string"
+    },
+    "type": {
+      "type": "string"
     }
   },
   "validations": [],
